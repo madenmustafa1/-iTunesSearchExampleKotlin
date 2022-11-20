@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">iTunesSearchExample</string>
+    <string name="search">Search</string>
+
+    <string name="movies">Movies</string>
+    <string name="music">Music</string>
+    <string name="e_book">E-Book</string>
+    <string name="podcast">Podcast</string>
+    <string name="price">Price</string>
+    <string name="collection_name">Collection Name</string>
+    <string name="release_date">Release Date</string>
+
+    <string name="not_found">Not found</string>
+    <string name="country">Country</string>
+    <string name="collection_artist_name">Collection Artist Name</string>
+    <string name="collection_id">Collection Id</string>
+    <string name="kind">Kind</string>
+</resources>
